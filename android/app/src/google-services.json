@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "230018352054",
+    "project_id": "cyberx-2410",
+    "storage_bucket": "cyberx-2410.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230018352054:android:2eb328dfc6e85e6a57f717",
+        "android_client_info": {
+          "package_name": "com.example.cyberx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoBdo_eh1Y_De_ws78FxLZZ4X92dHwt8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
